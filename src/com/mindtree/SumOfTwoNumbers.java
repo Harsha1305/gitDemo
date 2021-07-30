@@ -5,7 +5,6 @@ public class SumOfTwoNumbers {
 		System.out.println("Hello");
 		int n1=10;
 		int n2=20;
-		System.out.println(a+b);
 		System.out.println("abcd");
 		System.out.println("a-b");
 	}
